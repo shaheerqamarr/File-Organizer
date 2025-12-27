@@ -1,4 +1,4 @@
-# Downloads Folder Organizer
+# Folder Organizer
 
 A Python script that automatically organizes your Downloads folder by sorting files into categorized subfolders based on their file extensions.
 
